@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/autosport/static/css/main.a617e044.chunk.css",
+    "main.js": "/autosport/static/js/main.24bf8dbe.chunk.js",
+    "main.js.map": "/autosport/static/js/main.24bf8dbe.chunk.js.map",
+    "runtime-main.js": "/autosport/static/js/runtime-main.a50fdb58.js",
+    "runtime-main.js.map": "/autosport/static/js/runtime-main.a50fdb58.js.map",
+    "static/js/2.c42f9647.chunk.js": "/autosport/static/js/2.c42f9647.chunk.js",
+    "static/js/2.c42f9647.chunk.js.map": "/autosport/static/js/2.c42f9647.chunk.js.map",
+    "static/js/3.bdbcd93c.chunk.js": "/autosport/static/js/3.bdbcd93c.chunk.js",
+    "static/js/3.bdbcd93c.chunk.js.map": "/autosport/static/js/3.bdbcd93c.chunk.js.map",
+    "index.html": "/autosport/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/autosport/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c42f9647.chunk.js.LICENSE.txt": "/autosport/static/js/2.c42f9647.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/autosport/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50fdb58.js",
+    "static/js/2.c42f9647.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.24bf8dbe.chunk.js"
+  ]
+}
